@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePathExtractor", "FilePathExtractor.csproj", "{1A91310A-936D-00A4-3969-FF2AF113EA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A91310A-936D-00A4-3969-FF2AF113EA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A91310A-936D-00A4-3969-FF2AF113EA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A91310A-936D-00A4-3969-FF2AF113EA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A91310A-936D-00A4-3969-FF2AF113EA81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BF0009-2C6B-4DFA-90EB-A2A5C1BB4485}
+	EndGlobalSection
+EndGlobal
